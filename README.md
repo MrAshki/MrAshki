@@ -8,7 +8,7 @@ Right now, I am exploring multilingual RAG, document intelligence, AI-assisted e
 
 | Project | What it demonstrates |
 | --- | --- |
-| [Dastyar Asnad](https://github.com/MrAshki/rag-system) | An evidence-first multilingual RAG workspace with hybrid retrieval, citations, evaluation, and document intelligence tools. |
+| [Document Assistant](https://github.com/MrAshki/rag-system) | An evidence-first multilingual RAG workspace with hybrid retrieval, citations, evaluation, and document intelligence tools. |
 | [QuestLine](https://github.com/MrAshki/Questline_Product) | A Persian-first coaching operations platform built with Next.js, NestJS, Prisma, and PostgreSQL. |
 | [AI Exam Platform](https://github.com/MrAshki/exam_product) | A class-centric assessment system with teacher-controlled AI grading, review, and result publication. |
 | [Resume Intake Agent](https://github.com/MrAshki/resume_bot) | A LangGraph and Ollama workflow for resume extraction, screening, interview scheduling, and approval-gated communication. |
