@@ -13,7 +13,6 @@ Right now, I am exploring multilingual RAG, document intelligence, AI-assisted e
 | [AI Exam Platform](https://github.com/MrAshki/exam_product) | A class-centric assessment system with teacher-controlled AI grading, review, and result publication. |
 | [Resume Intake Agent](https://github.com/MrAshki/resume_bot) | A LangGraph and Ollama workflow for resume extraction, screening, interview scheduling, and approval-gated communication. |
 | [Mission Control OS](https://github.com/MrAshki/mission-control-os) | A local-first dashboard plugin for Hermes Agent with runtime visibility, approvals, conversation tools, and voice hooks. |
-| [Persian Learning Landing Page](https://github.com/MrAshki/reza-shakourzad-landing) | A cinematic RTL interface for AI and mathematics learning paths using React, TypeScript, Three.js, and Motion. |
 
 ## Working principles
 
