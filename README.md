@@ -1,28 +1,31 @@
+![Ashki. Documents, speech, and connected tools.](ashki-header.png)
+
 # Hi, I'm Ashki
 
-I build applied AI systems and full-stack products with a focus on grounded retrieval, reliable automation, and practical user workflows.
+I enjoy solving problems and building useful software.
+I look for creative solutions, test ideas, and continue until the task is complete.
 
-Right now, I am exploring multilingual RAG, document intelligence, AI-assisted education, and local-first agent tooling. I care about evaluation, traceable outputs, and turning prototypes into software people can actually use.
+My projects cover AI applications, backend systems, speech recognition, and web tools.
+I have a special interest in Persian language support and tools that people can use in their daily work.
 
-## Selected work
+## Projects
 
-| Project | What it demonstrates |
+| Project | What it does |
 | --- | --- |
-| [Document Assistant](https://github.com/MrAshki/rag-system) | An evidence-first multilingual RAG workspace with hybrid retrieval, citations, evaluation, and document intelligence tools. |
-| [QuestLine](https://github.com/MrAshki/Questline_Product) | A Persian-first coaching operations platform built with Next.js, NestJS, Prisma, and PostgreSQL. |
-| [AI Exam Platform](https://github.com/MrAshki/exam_product) | A class-centric assessment system with teacher-controlled AI grading, review, and result publication. |
-| [Resume Intake Agent](https://github.com/MrAshki/resume_bot) | A LangGraph and Ollama workflow for resume extraction, screening, interview scheduling, and approval-gated communication. |
-| [Mission Control OS](https://github.com/MrAshki/mission-control-os) | A local-first dashboard plugin for Hermes Agent with runtime visibility, approvals, conversation tools, and voice hooks. |
+| [Document Assistant](https://github.com/MrAshki/rag-system) | Answers questions about documents with hybrid retrieval and page references. Includes tools for document comparison and evaluation. |
+| [Persian STT Bench](https://github.com/MrAshki/STT-Benchmark) | Compares speech recognition configurations with word errors, character errors, processing time, and saved transcripts. |
+| [AE Whisper Captions](https://github.com/MrAshki/AE-Whisper-Captions) | Creates editable captions in After Effects with local speech recognition, word timestamps, and Persian support. Derived from an MIT project. |
+| [Mission Control OS](https://github.com/MrAshki/mission-control-os) | Adds a local dashboard for Hermes Agent runtime status, conversations, and approval requests. |
+| [AI Exam Platform](https://github.com/MrAshki/exam_product) | Helps teachers create exams, review AI grading, and publish results. |
+| [QuestLine](https://github.com/MrAshki/Questline_Product) | Brings coaches, athletes, training programs, sessions, and attendance into a Persian web application. |
+| [AI Project Navigator](https://github.com/MrAshki/agentic-botcamp-checklist-skill) | Helps students select an AI project path and create a checklist for their goals and limits. |
+| [Superstore BI Dashboard](https://github.com/MrAshki/superstore-bi-dashboard) | Presents sales and profit data in English and Persian, with filters and report export. |
+| [AVE Engine](https://github.com/MrAshki/AVE-Engine) | Tests responsive 3D interfaces and render quality settings in a browser. |
 
-## Working principles
+These projects have different development stages. Each repository explains its current scope and limits.
 
-- Ground AI outputs in inspectable evidence.
-- Prefer small, testable changes over opaque demos.
-- Keep human review in consequential automation loops.
-- Design Persian and RTL experiences as first-class product surfaces.
+## Tools I use
 
-## Core tools
+Python · TypeScript · FastAPI · Next.js · NestJS · PostgreSQL · Qdrant · LangGraph · Docker
 
-`Python` · `TypeScript` · `FastAPI` · `Next.js` · `NestJS` · `PostgreSQL` · `Qdrant` · `LangGraph` · `Docker`
-
-If you are working on document intelligence, applied AI, or developer tooling, feel free to open a discussion or issue in the relevant repository.
+For project questions, open an issue in the related repository.
