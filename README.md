@@ -1,31 +1,120 @@
-![Ashki. Documents, speech, and connected tools.](ashki-header.png)
+<p align="center">
+  <img src="ashki-header.png" alt="Ashki — documents, speech, and connected tools" width="100%" />
+</p>
 
-# Hi, I'm Ashki
+<h1 align="center">I solve problems by building software.</h1>
 
-I enjoy solving problems and building useful software.
-I look for creative solutions, test ideas, and continue until the task is complete.
+<p align="center">
+  I'm Ashki. I work with AI, backend systems, and web applications.<br />
+  I enjoy difficult problems, creative solutions, and the work needed to finish a task.
+</p>
 
-My projects cover AI applications, backend systems, speech recognition, and web tools.
-I have a special interest in Persian language support and tools that people can use in their daily work.
+<p align="center">
+  <a href="#selected-projects">Selected projects</a> &nbsp; / &nbsp;
+  <a href="#how-i-build">How I build</a> &nbsp; / &nbsp;
+  <a href="#more-to-explore">More to explore</a>
+</p>
 
-## Projects
+---
 
-| Project | What it does |
-| --- | --- |
-| [Document Assistant](https://github.com/MrAshki/rag-system) | Answers questions about documents with hybrid retrieval and page references. Includes tools for document comparison and evaluation. |
-| [Persian STT Bench](https://github.com/MrAshki/STT-Benchmark) | Compares speech recognition configurations with word errors, character errors, processing time, and saved transcripts. |
-| [AE Whisper Captions](https://github.com/MrAshki/AE-Whisper-Captions) | Creates editable captions in After Effects with local speech recognition, word timestamps, and Persian support. Derived from an MIT project. |
-| [Mission Control OS](https://github.com/MrAshki/mission-control-os) | Adds a local dashboard for Hermes Agent runtime status, conversations, and approval requests. |
-| [AI Exam Platform](https://github.com/MrAshki/exam_product) | Helps teachers create exams, review AI grading, and publish results. |
-| [QuestLine](https://github.com/MrAshki/Questline_Product) | Brings coaches, athletes, training programs, sessions, and attendance into a Persian web application. |
-| [AI Project Navigator](https://github.com/MrAshki/agentic-botcamp-checklist-skill) | Helps students select an AI project path and create a checklist for their goals and limits. |
-| [Superstore BI Dashboard](https://github.com/MrAshki/superstore-bi-dashboard) | Presents sales and profit data in English and Persian, with filters and report export. |
-| [AVE Engine](https://github.com/MrAshki/AVE-Engine) | Tests responsive 3D interfaces and render quality settings in a browser. |
+## Selected projects
 
-These projects have different development stages. Each repository explains its current scope and limits.
+My work connects three interests: understanding information, automating tasks, and building useful applications.
+Persian language support is part of that work, from speech recognition to web interfaces.
 
-## Tools I use
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Python · TypeScript · FastAPI · Next.js · NestJS · PostgreSQL · Qdrant · LangGraph · Docker
+### Documents → answers
 
-For project questions, open an issue in the related repository.
+**[Document Assistant](https://github.com/MrAshki/rag-system)**
+
+Ask questions, compare documents, and follow answers back to their source pages. Combines hybrid retrieval, document processing, and evaluation in one workspace.
+
+<sub>Python · FastAPI · PostgreSQL · Qdrant</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### Speech → evidence
+
+**[Persian STT Bench](https://github.com/MrAshki/STT-Benchmark)**
+
+Compare Persian speech recognition configurations. Inspect word errors, character errors, processing time, and the transcripts behind the results.
+
+<sub>Python · whisper.cpp · Transformers · Vosk</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Audio → editable captions
+
+**[AE Whisper Captions](https://github.com/MrAshki/AE-Whisper-Captions)**
+
+Bring local speech recognition into After Effects. Group captions from word timestamps, edit the text, and import it as text layers. Includes Persian support.
+
+<sub>JavaScript · whisper.cpp · FFmpeg · Adobe CEP</sub><br />
+<sub>Derived from FangYeBai's MIT-licensed AE-Subtitle-AI-Local.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### Agent activity → visibility
+
+**[Mission Control OS](https://github.com/MrAshki/mission-control-os)**
+
+Inspect Hermes Agent runtime status, conversations, and approval requests in a local dashboard. Connects agent operations with a visible control interface.
+
+<sub>Python · FastAPI · Hermes Agent</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Assessment → teacher review
+
+**[AI Exam Platform](https://github.com/MrAshki/exam_product)**
+
+Create exams, process grading jobs, review AI suggestions, and publish results. Teachers retain control of grade review and publication.
+
+<sub>FastAPI · Next.js · PostgreSQL · Celery · Redis</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### Coaching → coordination
+
+**[QuestLine](https://github.com/MrAshki/Questline_Product)**
+
+Bring coaches, athletes, training programs, sessions, and attendance into one Persian web application. Built around role-based workflows and mobile use.
+
+<sub>TypeScript · Next.js · NestJS · Prisma · PostgreSQL</sub>
+
+</td>
+</tr>
+</table>
+
+<sub>Project scope and development status are documented in each repository.</sub>
+
+## How I build
+
+**Understand the problem. Test the idea. Complete the task.**
+
+I look for a solution that fits the task and its limits. I use source references and repeatable measurements to check AI output. I keep human review in workflows that need it.
+
+## More to explore
+
+- **[AI Project Navigator](https://github.com/MrAshki/agentic-botcamp-checklist-skill)** — A Persian skill that helps students turn project goals and constraints into a practical checklist.
+- **[Superstore BI Dashboard](https://github.com/MrAshki/superstore-bi-dashboard)** — Sales and profit analysis with English and Persian views, filters, and report export.
+- **[AVE Engine](https://github.com/MrAshki/AVE-Engine)** — A browser experiment with interactive 3D, responsive motion, and render quality settings.
+
+---
+
+<p align="center">
+  Have a question about a project?<br />
+  <strong>Open an issue in its repository. Let's start with the problem.</strong>
+</p>
